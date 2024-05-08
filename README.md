@@ -8,16 +8,16 @@ Create a new Document and add the [Gridfinity-Bins](https://cad.onshape.com/docu
 1. Create a new Document
 2. add a deriverd link to [Gridfinity-Bins](https://cad.onshape.com/documents/c6af23c0c2996218aff62e73/w/9e1e4a23c40838f552e8dbb6/e/e2cc2e0817e0bca10eba48c9)
    
-   ![derived](derived.png)
+   ![derived](assets/derived.png)
 
-3. Choose BinTemplate for Binsm BaseTemplate for Bases
+3. Choose BinTemplate for Bins, BaseTemplate for Bases
 
-   ![choose](derived-choose.png)   
+   ![choose](assets/derived-choose.png)   
 
 
 4. Configure your Bin/Base
 
-   ![settings](derived-settings.png)
+   ![settings](assets/derived-settings.png)
 
 5. Use your new created Bin/Base
 
